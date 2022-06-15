@@ -1,6 +1,6 @@
 # Desafio Engenheiro de Dados Jr. 
 
-- [Desafio Engenheiro de Dados Jr.](#desafio-engenheiro-de-dados-jr.)
+
 - [Informação do Candidato](#informação-do-candidato)
 - [Sobre o Desafio](#sobre-o-desafio)
   - [Considerações do Candidato](#considerações-do-candidato)
