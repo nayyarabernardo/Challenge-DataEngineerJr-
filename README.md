@@ -35,15 +35,20 @@ IMAGEM DECOMO VOU FAZER
 
 #### Modelagem de dados
 
-*O conjunto de dados é sobre viagens Uber. Ele contém a região, coordenadas de origem, coordenadas de destino, um campo de timestamp sobre quando aconteceu e qual carro compareceu a essa viagem.
-
-Como as perguntas do desafio são orientadas ao tempo (por exemplo, quantas viagens semanais ocorreram para uma determinada região) e os registros não têm nenhum identificador de chave exclusivo, decidi modelar os dados de forma **série temporal**.*
+O conjunto de dados é de uma base de clientes. Ele contém name, phone, email, address, postalZip, region, country, list, numberrange, currency do usuário.
 
 #### Arquivo JSON
 
-Postgres TimescaleDB é o banco de dados relacional de código aberto líder com suporte para dados de séries temporais. Ele oferece muitos benefícios, como:XXX
+.json é um arquivo que contém uma série de dados estruturados em formato texto e é utilizado para transferir informações entre sistemas. É uma notação para a transferência de dados que segue um padrão específico. Por isso, pode ser amplamente utilizada em diferentes linguagens de programação e sistemas.
+
+Os dados contidos em um arquivo no formato JSON devem ser estruturados por meio de uma coleção de pares com nome e valor ou ser uma lista ordenada de valores. Seus elementos devem conter:
+
+chave: corresponde ao identificador do conteúdo. Por isso, deve ser uma string delimitada por aspas;
+valor: representa o conteúdo correspondente e pode conter os seguintes tipos de dados: string, array, object, number, boolean ou null.
 
 #### Google Sheets
 
-Postgres TimescaleDB é o banco de dados relacional de código aberto líder
+O Script do Google Apps permite que você faça coisas novas e interessantes com o Google Sheets. Ele também permite escrever funções personalizadas para o Planilhas, além de integrar o Planilhas a outros serviços do Google, como Agenda, Drive e Gmail.
+A maioria dos scripts projetados para o Planilhas Google manipula matrizes para interagir com as células, linhas e colunas em uma planilha. 
+
 
