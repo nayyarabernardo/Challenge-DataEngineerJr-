@@ -27,6 +27,8 @@ Foi criado uma solução para enviar estes dados para uma planilha no Google She
 
 Além disso, compartilhar o arquivo Git junto com o Sheets final e pôr no repositório os arquivos da automação;
 
+
+
 ### Arquitetura da proposta
 
 IMAGEM DECOMO VOU FAZER
@@ -50,5 +52,9 @@ valor: representa o conteúdo correspondente e pode conter os seguintes tipos de
 
 O Script do Google Apps permite que você faça coisas novas e interessantes com o Google Sheets. Ele também permite escrever funções personalizadas para o Planilhas, além de integrar o Planilhas a outros serviços do Google, como Agenda, Drive e Gmail.
 A maioria dos scripts projetados para o Planilhas Google manipula matrizes para interagir com as células, linhas e colunas em uma planilha. 
+
+## Arquivo - Google Planilhas
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTIQ8vQwS2WUBAfB-NRVZ_fDy7eevVdIgShEUr0z1pYIxf42f9SS0DWcHHhuna_UAUwFdlWpfq7lbyc/pub?output=xlsx
 
 
