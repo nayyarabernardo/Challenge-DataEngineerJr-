@@ -75,3 +75,4 @@ O que foi feito nesse projeto foi importar o arquivo por meio do Python e com es
 
 
 
+.
