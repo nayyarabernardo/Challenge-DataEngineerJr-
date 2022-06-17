@@ -55,6 +55,12 @@ A maioria dos scripts projetados para o Planilhas Google manipula matrizes para 
 
 ## Arquivo - Google Planilhas
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTIQ8vQwS2WUBAfB-NRVZ_fDy7eevVdIgShEUr0z1pYIxf42f9SS0DWcHHhuna_UAUwFdlWpfq7lbyc/pub?output=xlsx
+Teoricamente a maneira mais fácil para fazer essa tranferencia seria por meio dessa API, porem eu tive um problema nessa API que nao consegui infelizmente fazer essa transição por lá pela questão que varias API publucas de ImporteJson tem uma dificuldade quando o arquivo URL nao esta disponivel online e sim por meio link de um repositorio privado no caso o Google Drive. 
+
+O que foi feito nesse projeto foi importar o arquivo por meio do Python e com esse arqui XLSX abir a Google Planilha e fazer importação.
+
+
+
+
 
 
