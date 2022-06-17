@@ -59,7 +59,14 @@ Teoricamente a maneira mais fácil para fazer essa tranferencia seria por meio d
 
 O que foi feito nesse projeto foi importar o arquivo por meio do Python e com esse arqui XLSX abir a Google Planilha e fazer importação.
 
-<img src="IMAGENS/img.png" alt="drawing"> 
+<img src="IMAGENS/Vamos%20joga.png" alt="drawing"> 
+
+
+### Links do Projeto
+
+
+[Google Drive](https://drive.google.com/drive/folders/1ivAGpgKUORX0f7W2OOy2skiC_EUDc62L?usp=sharing)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1ZV5J-d4v-8ugWUA28DQBOT4NHItrKOnXgQdCS1ufHGc/edit?usp=sharing) 
 
 
 
