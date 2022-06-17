@@ -59,7 +59,7 @@ Teoricamente a maneira mais fácil para fazer essa tranferencia seria por meio d
 
 O que foi feito nesse projeto foi importar o arquivo por meio do Python e com esse arqui XLSX abir a Google Planilha e fazer importação.
 
-
+<img src="IMAGENS/img.png" alt="drawing"> 
 
 
 
