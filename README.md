@@ -10,6 +10,8 @@
    - [Modelagem de dados](#modelagem-de-dados)
    - [Arquivo JSON](#arquivo-json)
    - [Google Sheets](#google-sheets)
+  - [Arquivo - Google Planilhas](#arquivo---google-planilhas)
+ - [Links do Projeto](#links-do-projeto)
 
 ## Informação do Candidato
 
@@ -62,10 +64,12 @@ O que foi feito nesse projeto foi importar o arquivo por meio do Python e com es
 <img src="IMAGENS/Vamos%20joga.png" alt="drawing"> 
 
 
-### Links do Projeto
+## Links do Projeto
 
 
 [Google Drive](https://drive.google.com/drive/folders/1ivAGpgKUORX0f7W2OOy2skiC_EUDc62L?usp=sharing)
+
+
 [Google Sheets](https://docs.google.com/spreadsheets/d/1ZV5J-d4v-8ugWUA28DQBOT4NHItrKOnXgQdCS1ufHGc/edit?usp=sharing) 
 
 
